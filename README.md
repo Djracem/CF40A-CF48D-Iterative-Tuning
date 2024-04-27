@@ -9,6 +9,8 @@ Also a GIGANTIC thanks to [Fenugrec](https://github.com/fenugrec) for making [Ni
 
 Also huge credit to everyone on [RomRaider](https://www.romraider.com/) for helping out!
 
+My friend Johnathan who also has a CF48D 350z, to which I compared Pytrex's to and both were the same. For all intents and purposes, they both helped confirm this ECU to be usable in CF40A, though I will also want to thank [bradsm87](https://www.romraider.com/forum/memberlist.php?mode=viewprofile&u=15839) for also confirming this on the forum!
+
 All of these people have made it possible to further the open-source nature of tuning. Support them if you can! If not, at least make sure to make use of their work to learn from!
 
 ## WARNING
